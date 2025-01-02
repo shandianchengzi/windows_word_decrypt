@@ -21,3 +21,8 @@ pip install -r requirements.txt
     result_path = "result.txt"  # 结果文件路径
 ```
 3. 运行main.py
+
+# 注意事项
+
+- 本脚本仅供学习交流使用，请勿用于非法用途。
+- 解密doc文档的时候，需要安装Microsoft Office Word（好像有人说WPS之类的也行，我没试过），并在运行脚本之前打开，否则会报错“RPC 服务器不可用”。
